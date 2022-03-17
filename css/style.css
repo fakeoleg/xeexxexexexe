@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: orchid;
+    color:slateblue;
+    font-family: Snell Roundhand, cursive;
+    
+}
+
+body {
+    width: 1474px;
+}
+
+header {
+    text-align: center;
+    margin: 10px;
+    height: 80px;
+}
+
+.imgbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img01 {
+    margin: 20px;
+    width: 500px;
+}
+
+.textt {
+    text-align: center;
+}
+
+.fortext {
+    padding: 10px;
+}
+
+.textafterimg {
+    padding: 10px;
+}
+
+.textmilota {
+    padding: 10px;
+}
+
+.sud {
+    margin-top: 80px;
+    text-align: right;
+}
+
+.navig {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color:darkred;
+}
